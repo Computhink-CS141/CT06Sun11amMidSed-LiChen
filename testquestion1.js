@@ -12,6 +12,6 @@ function draw(){
     strokeWeight(10);
     circle(50, 50, 50);
     triangle(200, 100, 150, 130, 105, 100);
-    rect(100, 100, 100, 100);
+    rect(200, 100, 100, 100);
 }
 
