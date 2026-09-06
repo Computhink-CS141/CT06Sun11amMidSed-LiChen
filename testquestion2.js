@@ -9,8 +9,8 @@ function setup(){
         fill(colourMe);
         circle(xpos, ypos, 50);
         xpos = xpos + 55
-        ypos = ypos + 55
-        colourMe = colourMe + 50
+        ypos = ypos + 50
+        colourMe = colourMe + 30
     }
 }
 
