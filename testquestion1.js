@@ -14,7 +14,7 @@ function draw(){
     circle(xpos, ypos, 50);
     triangle(175, 100, 150, 120, 75, 50);
     // rectangle(400, 300, 100, 100);
-    xpos = xpos + 55;
-    ypos = ypos + 55;
+    xpos = xpos + 50;
+    ypos = ypos + 50;
 }
 
