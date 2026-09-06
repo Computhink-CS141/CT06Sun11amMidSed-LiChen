@@ -11,7 +11,7 @@ function draw(){
     stroke("red");
     strokeWeight(10);
     circle(50, 50, 50);
-    triangle(200, 50, 150, 130, 105, 100);
+    triangle(200, 500, 150, 130, 105, 100);
     rectangle(200, 300, 300, 300);
 }
 
