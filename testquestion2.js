@@ -14,5 +14,6 @@ function draw() {
         circle(xpos, ypos, 50);
         xpos = xpos + 55
         ypos = ypos + 55
+        colo
     }
 }
