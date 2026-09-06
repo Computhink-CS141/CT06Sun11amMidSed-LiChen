@@ -8,7 +8,7 @@ function setup(){
     for (let num = 1; num <= 11; num = num + 1) {
         fill(colourMe);
         circle(xpos, ypos, 50);
-        xpos = xpos + 55
+        xpos = xpos + 50
         ypos = ypos + 50
         colourMe = colourMe + 30
     }
