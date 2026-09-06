@@ -10,7 +10,7 @@ function draw(){
     fill("black");
     stroke("red");
     strokeWeight(10);
-    circle(75, 200, 50);
+    circle(70, 100, 50);
     triangle(200, 100, 150, 130, 105, 100);
     rect(200, 100, 100, 100);
 }
